@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ddinhos" target="blank"><img src="https://img.shields.io/twitter/follow/ddinhos?logo=twitter&style=for-the-badge" alt="ddinhos" /></a> </p>
 
-- 🔭 I’m currently working on [Calculadora De Investimentos](https://github.com/ronaldosenajr/calculadora-de-investimentos-eqi)
+- 🔭 I’m currently working on [Calculadora De Investimentos](https://github.com/ronaldosenajr/Desafio-Tecnico-Eqi)
 
 - 🌱 I’m currently learning **Node.js, React.js, HTML, CSS**
 
